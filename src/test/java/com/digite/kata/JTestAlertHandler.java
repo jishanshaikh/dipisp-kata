@@ -20,5 +20,4 @@ class JTestAlertHandler {
 
         assertEquals("Email Alert", alerthandler.generateAlert("sunny"));
     }
-
 }
